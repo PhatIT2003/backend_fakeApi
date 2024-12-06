@@ -30,8 +30,7 @@
     "@babel/cli": "^7.25.9",
     "@babel/core": "^7.26.0",
     "@babel/preset-env": "^7.26.0",
-    "dotenv": "^16.4.5",
-    "nodemon": "^3.1.7"
+    "dotenv": "^16.4.5"
   },
   "presets": [
     "@babel/preset-env"
