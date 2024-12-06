@@ -1,0 +1,145 @@
+{
+  "member": [
+    {
+      "id": "15ca",
+      "user_id": 5462815312312,
+      "first_name": "thao",
+      "last_name": "mai",
+      "auth_date": "1727863653",
+      "hash": "ff580ae90de59c14c2ff86b2c11f04f246af352ca47686d9b6d6abb339d90234",
+      "token": 23,
+      "inviter": 5462815168
+    },
+    {
+      "id": "16cb",
+      "user_id": 5462812148,
+      "first_name": "truc",
+      "last_name": "mai",
+      "auth_date": "1727863453",
+      "hash": "ff580ae90de59c14c2ff86b2c11f04f246af352ca47686d9b6d6abb339d90234",
+      "token": 541,
+      "inviter": 5462815168
+    },
+    {
+      "id": "52av",
+      "user_id": 346281521,
+      "first_name": "nguyen",
+      "last_name": "vinh",
+      "auth_date": "1727363653",
+      "hash": "ff580ae90de59c14c2ff86b2c11f04f246af352ca47686d9b6d6abb339d90234",
+      "token": 421,
+      "inviter": 5462815168
+    },
+    {
+      "id": "981a",
+      "user_id": 5462565138,
+      "first_name": "nguyen",
+      "last_name": "van",
+      "auth_date": "1327863653",
+      "hash": "ff580ae90de59c14c2ff86b2c11f04f246af352ca47686d9b6d6abb339d90234",
+      "token": 91,
+      "inviter": 5462815168
+    },
+    {
+      "id": "42aa",
+      "user_id": 546281531124,
+      "first_name": "tao",
+      "last_name": "thao",
+      "auth_date": "1727863126",
+      "hash": "ff580ae90de59c14c2ff86b2c11f04f246af352ca47686d9b6d6abb339d90234",
+      "token": 264,
+      "inviter": 5462815168
+    },
+    {
+      "id": "73ar",
+      "user_id": 5462812198,
+      "first_name": "lien",
+      "last_name": "nga",
+      "auth_date": "1727863453",
+      "hash": "ff580ae90de59c14c2ff86b2c11f04f246af352ca47686d9b6d6abb339d90234",
+      "token": 425,
+      "inviter": 5462815168
+    },
+    {
+      "id": "28ea",
+      "user_id": 5462565751,
+      "first_name": "phu",
+      "last_name": "vu",
+      "auth_date": "13278631245",
+      "hash": "ff580ae90de59c14c2ff86b2c11f04f246af352ca47686d9b6d6abb339d90234",
+      "token": 91,
+      "inviter": 5462815168
+    },
+    {
+      "id": "032e",
+      "user_id": 5462815168,
+      "first_name": "Hieu",
+      "last_name": "Bao",
+      "auth_date": "1728468944",
+      "hash": "d5e130ce3a5cbbf56262e8dd99795aba9d49ae5216cc30811f08bfbd0d4b573b",
+      "token": 1232.6875,
+      "inviter": 1111111111
+    },
+    {
+      "user_id": 6898277571,
+      "first_name": "tuấn",
+      "last_name": "Phạm",
+      "auth_date": "1729154282",
+      "hash": "0b4582a2a65fcd8c0df9bb4756150bca8b6dd96744c0b193f58b947348d1d64a",
+      "token": 100,
+      "inviter": "5462815168",
+      "id": "dosL1Zp"
+    }
+  ],
+  "task": [
+    {
+      "id": "112da",
+      "stt": 1,
+      "name_task": "joln channel tobe",
+      "link_task": "https://web.telegram.org/k/#@tobechain_appbot",
+      "token": 50
+    },
+    {
+      "id": "169gs",
+      "stt": 2,
+      "name_task": "follow feacbook tobechain",
+      "link_task": "https://web.telegram.org/k/#@tobechain_appbot",
+      "token": 50
+    },
+    {
+      "id": "123zs",
+      "stt": 3,
+      "name_task": "follow tiktok",
+      "link_task": "https://www.tiktok.com/vi-VN/",
+      "token": 50
+    },
+    {
+      "id": "189bs",
+      "stt": 4,
+      "name_task": "Like TikTok",
+      "link_task": "https://www.tiktok.com/vi-VN/",
+      "token": 50
+    },
+    {
+      "id": "219as",
+      "stt": 5,
+      "name_task": "Comment Tiktok",
+      "link_task": "https://www.tiktok.com/vi-VN/",
+      "token": 50
+    },
+    {
+      "id": "642ps",
+      "stt": 6,
+      "name_task": "follow  telegram",
+      "link_task": "https://web.telegram.org/k/#@tobechain_appbot",
+      "token": 50
+    },
+    {
+      "id": "258da",
+      "stt": 7,
+      "name_task": "follow X",
+      "link_task": "https://web.telegram.org/k/#@tobechain_appbot",
+      "token": 50
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Fake_API_backend",
+  "version": "1.0.0",
+  "description": "fake backend for CRUD APIs",
+  "main": "src/server.js",
+  "private": true,
+  "author": "...",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js",
+    "dev": "nodemon --exec node src/server.js",
+    "build": "babel src -d build --copy-files",
+    "build-src": "babel src -d build --copy-files"
+  },
+  "keywords": [
+    "fake",
+    "backend",
+    "json",
+    "server"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "json-server": "0.17.4",
+    "jsonwebtoken": "^9.0.2",
+    "uuid": "^11.0.3"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.25.9",
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.7"
+  },
+  "presets": [
+    "@babel/preset-env"
+  ]
+}

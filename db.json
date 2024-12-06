@@ -1,0 +1,455 @@
+{
+  "member": [
+    {
+      "id": "54628321245",
+      "user_id": "5462123341",
+      "first_name": "nguyen",
+      "last_name": "van",
+      "username": "nguyenvan",
+      "languageCode": "en",
+      "photoUrl": "https://t.me/i/userpic/320/YWxg3oZgAdnXX8GiLUTFJbiM4tIPkJQKVgCJj--bX_JcutUysKx2I6DN5GXK16E2.svg",
+      "allowsWriteToPm": true,
+      "hash": "eea1d1ad4cb0ec4c7840a3dc566f612f28594688d476ce74d098fd98c97aa77e",
+      "auth_date": "1733196337",
+      "query_id": "AAHA8ZtFAgAAAMDxm0XcB29v",
+      "token": 300,
+      "inviter": "5462815168",
+      "address": "UQBNt2p94CGbxetW88evdY5zNty6NUhFhRYrTUiYAM7TWpI-",
+      "createdAt": "2024-12-03T03:25:39.957Z",
+      "lastAuthenticated": "2024-12-04T03:10:24.212Z",
+      "lastClaim": "2024-12-04T02:01:32.380Z"
+    },
+    {
+      "id": "5462344451",
+      "user_id": "54621323421",
+      "first_name": "nguyen",
+      "last_name": "hung",
+      "username": "nguyenhung",
+      "languageCode": "en",
+      "photoUrl": "https://t.me/i/userpic/320/YWxg3oZgAdnXX8GiLUTFJbiM4tIPkJQKVgCJj--bX_JcutUysKx2I6DN5GXK16E2.svg",
+      "allowsWriteToPm": true,
+      "hash": "eea1d1ad4cb0ec4c7840a3dc566f612f28594688d476ce74d098fd98c97aa77e",
+      "auth_date": "1733196337",
+      "query_id": "AAHA8ZtFAgAAAMDxm0XcB29v",
+      "token": 220,
+      "inviter": null,
+      "address": "UQBNt2p94CGbxetW88evdY5zNty6NUhFhRYrTUiYAM7TWpI-",
+      "createdAt": "2024-12-03T03:25:39.957Z",
+      "lastAuthenticated": "2024-12-04T03:10:24.212Z",
+      "lastClaim": "2024-12-04T02:01:32.380Z"
+    },
+    {
+      "id": "532134155",
+      "user_id": "54621132322",
+      "first_name": "dong",
+      "last_name": "cuc",
+      "username": "dongcuc",
+      "languageCode": "en",
+      "photoUrl": "https://t.me/i/userpic/320/YWxg3oZgAdnXX8GiLUTFJbiM4tIPkJQKVgCJj--bX_JcutUysKx2I6DN5GXK16E2.svg",
+      "allowsWriteToPm": true,
+      "hash": "eea1d1ad4cb0ec4c7840a3dc566f612f28594688d476ce74d098fd98c97aa77e",
+      "auth_date": "1733196337",
+      "query_id": "AAHA8ZtFAgAAAMDxm0XcB29v",
+      "token": 100,
+      "inviter": "5462815168",
+      "address": "UQBNt2p94CGbxetW88evdY5zNty6NUhFhRYrTUiYAM7TWpI-",
+      "createdAt": "2024-12-03T03:25:39.957Z",
+      "lastAuthenticated": "2024-12-04T03:10:24.212Z",
+      "lastClaim": "2024-12-04T02:01:32.380Z"
+    },
+    {
+      "id": "5441355131",
+      "user_id": "546123114",
+      "first_name": "chau",
+      "last_name": "tien",
+      "username": "chautien",
+      "languageCode": "en",
+      "photoUrl": "https://t.me/i/userpic/320/YWxg3oZgAdnXX8GiLUTFJbiM4tIPkJQKVgCJj--bX_JcutUysKx2I6DN5GXK16E2.svg",
+      "allowsWriteToPm": true,
+      "hash": "eea1d1ad4cb0ec4c7840a3dc566f612f28594688d476ce74d098fd98c97aa77e",
+      "auth_date": "1733196337",
+      "query_id": "AAHA8ZtFAgAAAMDxm0XcB29v",
+      "token": 100,
+      "inviter": null,
+      "address": "UQBNt2p94CGbxetW88evdY5zNty6NUhFhRYrTUiYAM7TWpI-",
+      "createdAt": "2024-12-03T03:25:39.957Z",
+      "lastAuthenticated": "2024-12-04T03:10:24.212Z",
+      "lastClaim": "2024-12-04T02:01:32.380Z"
+    },
+    {
+      "id": "5462341242",
+      "user_id": "5461241142",
+      "first_name": "be",
+      "last_name": "hoa",
+      "username": "behoa",
+      "languageCode": "en",
+      "photoUrl": "https://t.me/i/userpic/320/YWxg3oZgAdnXX8GiLUTFJbiM4tIPkJQKVgCJj--bX_JcutUysKx2I6DN5GXK16E2.svg",
+      "allowsWriteToPm": true,
+      "hash": "eea1d1ad4cb0ec4c7840a3dc566f612f28594688d476ce74d098fd98c97aa77e",
+      "auth_date": "1733196337",
+      "query_id": "AAHA8ZtFAgAAAMDxm0XcB29v",
+      "token": 300,
+      "inviter": "5462815168",
+      "address": "UQBNt2p94CGbxetW88evdY5zNty6NUhFhRYrTUiYAM7TWpI-",
+      "createdAt": "2024-12-03T03:25:39.957Z",
+      "lastAuthenticated": "2024-12-04T03:10:24.212Z",
+      "lastClaim": "2024-12-04T02:01:32.380Z"
+    },
+    {
+      "id": "54628312445",
+      "user_id": "546212324341",
+      "first_name": "lieu",
+      "last_name": "thi",
+      "username": "lieuthi",
+      "languageCode": "en",
+      "photoUrl": "https://t.me/i/userpic/320/YWxg3oZgAdnXX8GiLUTFJbiM4tIPkJQKVgCJj--bX_JcutUysKx2I6DN5GXK16E2.svg",
+      "allowsWriteToPm": true,
+      "hash": "eea1d1ad4cb0ec4c7840a3dc566f612f28594688d476ce74d098fd98c97aa77e",
+      "auth_date": "1733196337",
+      "query_id": "AAHA8ZtFAgAAAMDxm0XcB29v",
+      "token": 300,
+      "inviter": "5462815168",
+      "address": "UQBNt2p94CGbxetW88evdY5zNty6NUhFhRYrTUiYAM7TWpI-",
+      "createdAt": "2024-12-03T03:25:39.957Z",
+      "lastAuthenticated": "2024-12-04T03:10:24.212Z",
+      "lastClaim": "2024-12-04T02:01:32.380Z"
+    },
+    {
+      "id": 7332793437,
+      "user_id": 7332793437,
+      "first_name": "Le",
+      "last_name": "Hin",
+      "username": "Hainlen856",
+      "languageCode": "vi",
+      "photoUrl": "https://t.me/i/userpic/320/71VAcdxCIy5Rb3zF1tcLUNx_5X8uqYMjdWzwlFTTtBFJPKGct7euLHotDdsFq23X.svg",
+      "allowsWriteToPm": true,
+      "authDate": "1732184057",
+      "hash": "197ad9eb4ee4275bd4cc38b7f101d11e0039c9f2b3619e3ac8c5f56c0726c8e0",
+      "queryId": "AAFdjBE1AwAAAF2METV0oXfB",
+      "token": 100,
+      "inviter": null,
+      "address": "0x"
+    },
+    {
+      "id": "6898277571",
+      "user_id": "6898277571",
+      "first_name": "tuấn",
+      "last_name": "Phạm",
+      "username": "tuanpham136",
+      "languageCode": "vi",
+      "photoUrl": "https://t.me/i/userpic/320/bA4hjw5Uzoy-BEhv0wo6Hrczdt7tvWymLakkn1fJJKrt5SP-metLlIo2Bi6mj90G.svg",
+      "allowsWriteToPm": true,
+      "authDate": "1732869547",
+      "hash": "5e320eb07ba4f03bcb92efb11ed0d6df78f5152241d2536e8ddd11377b9c04af",
+      "queryId": "",
+      "token": 200,
+      "inviter": "5462815168",
+      "address": "0x",
+      "createdAt": "2024-11-29T08:39:09.799Z",
+      "lastAuthenticated": "2024-12-02T08:21:52.891Z",
+      "referralSource": null,
+      "lastClaim": "2024-12-02T08:06:52.307Z"
+    },
+    {
+      "id": "5462815168",
+      "user_id": "5462815168",
+      "first_name": "Hoang",
+      "last_name": "Anh",
+      "username": "Hoanganh1352",
+      "languageCode": "en",
+      "photoUrl": "https://t.me/i/userpic/320/YWxg3oZgAdnXX8GiLUTFJbiM4tIPkJQKVgCJj--bX_JcutUysKx2I6DN5GXK16E2.svg",
+      "allowsWriteToPm": true,
+      "hash": "eea1d1ad4cb0ec4c7840a3dc566f612f28594688d476ce74d098fd98c97aa77e",
+      "auth_date": "1733196337",
+      "query_id": "AAHA8ZtFAgAAAMDxm0XcB29v",
+      "token": 4100,
+      "inviter": null,
+      "address": "UQBNt2p94CGbxetW88evdY5zNty6NUhFhRYrTUiYAM7TWpI-",
+      "createdAt": "2024-12-03T03:25:39.957Z",
+      "lastAuthenticated": "2024-12-06T04:55:06.793Z",
+      "lastClaim": "2024-12-06T04:55:06.779Z"
+    }
+  ],
+  "task": [
+    {
+      "id": "112da",
+      "stt": 1,
+      "name_task": "joln channel tobe",
+      "link_task": "https://web.telegram.org/k/#@tobechain_appbot",
+      "token": "500",
+      "isCompleted": false,
+      "completedAt": null,
+      "completedBy": null
+    },
+    {
+      "id": "169gs",
+      "stt": 2,
+      "name_task": "follow feacbook tobechain",
+      "link_task": "https://web.telegram.org/k/#@tobechain_appbot",
+      "token": "1000",
+      "isCompleted": false,
+      "completedAt": null,
+      "completedBy": null
+    },
+    {
+      "id": "123zs",
+      "stt": 3,
+      "name_task": "follow tiktok",
+      "link_task": "https://www.tiktok.com/vi-VN/",
+      "token": "700",
+      "isCompleted": false,
+      "completedAt": null,
+      "completedBy": null
+    },
+    {
+      "id": "189bs",
+      "stt": 4,
+      "name_task": "Like TikTok",
+      "link_task": "https://www.tiktok.com/vi-VN/",
+      "token": "700",
+      "isCompleted": false,
+      "completedAt": null,
+      "completedBy": null
+    },
+    {
+      "id": "642ps",
+      "stt": 6,
+      "name_task": "follow  telegram",
+      "link_task": "https://web.telegram.org/k/#@tobechain_appbot",
+      "token": "1000",
+      "isCompleted": false,
+      "completedAt": null,
+      "completedBy": null
+    },
+    {
+      "id": "258da",
+      "stt": 7,
+      "name_task": "follow X",
+      "link_task": "https://web.telegram.org/k/#@tobechain_appbot",
+      "token": "500",
+      "isCompleted": false,
+      "completedAt": null,
+      "completedBy": null
+    },
+    {
+      "stt": "10",
+      "name_task": "youtube",
+      "link_task": "https://www.youtube.com/watch?v=-0-l1yNzQbU",
+      "token": "1000",
+      "userId": "5462815168",
+      "id": "82153188-5c3a-417f-acb9-3822675fb647"
+    }
+  ],
+  "CollectionTask": [
+    {
+      "userId": "6898277571",
+      "task": [
+        {
+          "id": "112da",
+          "stt": 1,
+          "name_task": "joln channel tobe",
+          "link_task": "https://web.telegram.org/k/#@tobechain_appbot",
+          "token": "500",
+          "isCompleted": true,
+          "completedAt": "2024-11-28T08:52:22.214Z",
+          "completedBy": 6898277571
+        },
+        {
+          "id": "169gs",
+          "stt": 2,
+          "name_task": "follow feacbook tobechain",
+          "link_task": "https://web.telegram.org/k/#@tobechain_appbot",
+          "token": 50,
+          "isCompleted": true,
+          "completedAt": "2024-11-28T09:00:36.877Z",
+          "completedBy": 6898277571
+        },
+        {
+          "id": "258da",
+          "stt": 7,
+          "name_task": "follow X",
+          "link_task": "https://web.telegram.org/k/#@tobechain_appbot",
+          "token": 50,
+          "isCompleted": true,
+          "completedAt": "2024-11-28T09:14:52.281Z",
+          "completedBy": 6898277571
+        }
+      ]
+    },
+    {
+      "userId": "5462815168",
+      "task": [
+        {
+          "id": "112da",
+          "stt": 1,
+          "name_task": "joln channel tobe",
+          "link_task": "https://web.telegram.org/k/#@tobechain_appbot",
+          "token": "500",
+          "isCompleted": true,
+          "completedAt": "2024-12-04T16:59",
+          "completedBy": "5462815168",
+          "userId": "5462815168",
+          "taskId": "112da"
+        },
+        {
+          "id": "642ps",
+          "stt": 6,
+          "name_task": "follow  telegram",
+          "link_task": "https://web.telegram.org/k/#@tobechain_appbot",
+          "token": "1000",
+          "isCompleted": true,
+          "completedAt": "2024-12-03T04:38:51.832Z",
+          "completedBy": "5462815168"
+        },
+        {
+          "id": "169gs",
+          "stt": 2,
+          "name_task": "follow feacbook tobechain",
+          "link_task": "https://web.telegram.org/k/#@tobechain_appbot",
+          "token": "1000",
+          "isCompleted": true,
+          "completedAt": "2024-12-03T06:50:56.196Z",
+          "completedBy": "5462815168"
+        },
+        {
+          "id": "189bs",
+          "stt": 4,
+          "name_task": "Like TikTok",
+          "link_task": "https://www.tiktok.com/vi-VN/",
+          "token": "300",
+          "isCompleted": true,
+          "completedAt": "2024-12-03T06:50:59.985Z",
+          "completedBy": "5462815168"
+        },
+        {
+          "id": "123ps",
+          "stt": 10,
+          "name_task": "follow  telegram",
+          "link_task": "https://web.telegram.org/k/#@tobechain_appbot",
+          "token": "1000",
+          "isCompleted": true,
+          "completedAt": "2024-12-03T04:38:51.832Z",
+          "completedBy": "5462815168",
+          "userId": "5462815168",
+          "taskId": "123ps"
+        },
+        {
+          "stt": "10",
+          "name_task": "youtube",
+          "link_task": "https://www.youtube.com/watch?v=-0-l1yNzQbU",
+          "token": "1000",
+          "userId": "5462815168",
+          "id": "82153188-5c3a-417f-acb9-3822675fb647",
+          "isCompleted": true,
+          "completedAt": "2024-12-06T04:55:01.213Z",
+          "completedBy": "5462815168"
+        }
+      ]
+    },
+    {
+      "userId": "undefined",
+      "task": [
+        {
+          "stt": "212",
+          "name_task": "adawd",
+          "link_task": "adwda",
+          "token": "1231",
+          "isCompleted": "",
+          "completedAt": "12312",
+          "completedBy": "123",
+          "id": "c556802f-8aec-4b7a-8b15-3dd231f8c715"
+        },
+        {
+          "stt": "12312",
+          "name_task": "a2131",
+          "link_task": "1232d12",
+          "token": "12312",
+          "isCompleted": "",
+          "completedAt": "1232131",
+          "completedBy": "12312",
+          "id": "1233b505-453d-4fd9-9ae2-c54d054080e8"
+        },
+        {
+          "stt": "123",
+          "name_task": "adad",
+          "link_task": "ádwad",
+          "token": "213",
+          "isCompleted": "",
+          "completedAt": "ădwa",
+          "completedBy": "1213",
+          "id": "82789c5b-0b66-4503-a203-8db5e40a1c1a"
+        },
+        {
+          "stt": "123",
+          "name_task": "ădd",
+          "link_task": "12123",
+          "token": "12331",
+          "isCompleted": "",
+          "completedAt": "1233",
+          "completedBy": "12312",
+          "id": "18886219-dbb1-4dc7-be3f-7de500003c7d"
+        },
+        {
+          "stt": "131",
+          "name_task": "12312",
+          "link_task": "1231",
+          "token": "12312",
+          "isCompleted": "",
+          "completedAt": "1232",
+          "completedBy": "123",
+          "id": "1feae6ab-cfb4-4082-9daa-9e0d98248cd0"
+        },
+        {
+          "stt": "2131",
+          "name_task": "1231",
+          "link_task": "1231",
+          "token": "123",
+          "isCompleted": "",
+          "completedAt": "123",
+          "completedBy": "12312",
+          "id": "1cff2c4f-bfe2-44fe-a33f-fc196866bce1"
+        },
+        {
+          "stt": "2131",
+          "name_task": "adaw",
+          "link_task": "ad",
+          "token": "13",
+          "isCompleted": "",
+          "completedAt": "adwa",
+          "completedBy": "123",
+          "id": "7db86896-7c92-4b7c-b038-2dfb71167168"
+        }
+      ]
+    }
+  ],
+  "Admin": [
+    {
+      "id": 9,
+      "name": "Hin Phat",
+      "email": "admin@gmail.com",
+      "password": "123123"
+    },
+    {
+      "id": 10,
+      "name": "Nguyễn Văn A",
+      "email": "user2@gmail.com",
+      "password": "123123"
+    },
+    {
+      "id": 11,
+      "name": "Nguyễn Văn B",
+      "email": "user3@gmail.com",
+      "password": "123123"
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "123123",
+      "id": 12
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "123123",
+      "id": 13
+    }
+  ]
+}
