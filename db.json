@@ -162,7 +162,7 @@
       "hash": "eea1d1ad4cb0ec4c7840a3dc566f612f28594688d476ce74d098fd98c97aa77e",
       "auth_date": "1733196337",
       "query_id": "AAHA8ZtFAgAAAMDxm0XcB29v",
-      "token": 4100,
+      "token": 5150,
       "inviter": null,
       "address": "UQBNt2p94CGbxetW88evdY5zNty6NUhFhRYrTUiYAM7TWpI-",
       "createdAt": "2024-12-03T03:25:39.957Z",
@@ -238,6 +238,28 @@
       "token": "1000",
       "userId": "5462815168",
       "id": "82153188-5c3a-417f-acb9-3822675fb647"
+    }
+  ],
+  "taskDaily": [
+    {
+      "id": "112da",
+      "stt": 1,
+      "name_task": "joln channel tobe",
+      "link_task": "https://web.telegram.org/k/#@tobechain_appbot",
+      "token": "500",
+      "isCompleted": false,
+      "completedAt": null,
+      "completedBy": null
+    },
+    {
+      "id": "169gs",
+      "stt": 2,
+      "name_task": "follow feacbook tobechain",
+      "link_task": "https://web.telegram.org/k/#@tobechain_appbot",
+      "token": 50,
+      "isCompleted": true,
+      "completedAt": "2024-11-28T09:00:36.877Z",
+      "completedBy": 6898277571
     }
   ],
   "CollectionTask": [
@@ -418,6 +440,33 @@
           "completedAt": "adwa",
           "completedBy": "123",
           "id": "7db86896-7c92-4b7c-b038-2dfb71167168"
+        }
+      ]
+    }
+  ],
+  "CollectionTaskDaily": [
+    {
+      "userId": "5462815168",
+      "task": [
+        {
+          "id": "112da",
+          "stt": 1,
+          "name_task": "joln channel tobe",
+          "link_task": "https://web.telegram.org/k/#@tobechain_appbot",
+          "token": "500",
+          "isCompleted": true,
+          "completedAt": "2024-11-28T08:52:22.214Z",
+          "completedBy": 5462815168
+        },
+        {
+          "id": "169gs",
+          "stt": 2,
+          "name_task": "follow feacbook tobechain",
+          "link_task": "https://web.telegram.org/k/#@tobechain_appbot",
+          "token": 50,
+          "isCompleted": true,
+          "completedAt": "2024-12-12T09:08:25.434Z",
+          "completedBy": "5462815168"
         }
       ]
     }

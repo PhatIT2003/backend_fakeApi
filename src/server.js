@@ -16,6 +16,7 @@ const inviteRoutes = require('./routesAdmin/Invite.routes');
 const telegramRoutes = require('./routesTelegram/telegram.routes');
 const memberTelegramRoutes = require('./routesTelegram/member.routes');
 const taskTelegramRoutes = require('./routesTelegram/task.routes');
+const taskDailyRoutes = require('./routesTelegram/taskDaily.routes');
 const addressRoutes = require('./routesTelegram/address.routes');
 // Middleware
 server.use(jsonServer.bodyParser);
@@ -42,6 +43,7 @@ server.use('/admin/invite', inviteRoutes(router.db));
 server.use('/telegram/auth', telegramRoutes(router.db));  // Thêm route Telegram
 server.use('/telegram/auth/api/users', memberTelegramRoutes(router.db));  // Thêm route Telegram
 server.use('/telegram/auth/api/task', taskTelegramRoutes(router.db));  // Thêm route Telegram
+server.use('/telegram/auth/api/taskDaily', taskDailyRoutes(router.db));
 server.use('/telegram/auth/api/users/address', addressRoutes(router.db));  // Thêm route Telegram
 
 // Default router
